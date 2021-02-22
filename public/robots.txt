@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /js/
+Disallow: /dashboard/
+Crawl-delay: 10
+
+Host: https://my-dog.club
+Sitemap: https://my-dog.club/sitemap.xml

@@ -1,0 +1,961 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201911 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.my-dog.club.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1991                
+POS_TIME 2675                
+POS_VISITOR 16004               
+POS_DAY 25733               
+POS_DOMAIN 3578                
+POS_LOGIN 3813                
+POS_ROBOT 3968                
+POS_WORMS 4708                
+POS_EMAILSENDER 4839                
+POS_EMAILRECEIVER 4982                
+POS_SESSION 26550               
+POS_SIDER 26763               
+POS_FILETYPES 5117                
+POS_DOWNLOADS 5347                
+POS_OS 5419                
+POS_BROWSER 5607                
+POS_SCREENSIZE 7510                
+POS_UNKNOWNREFERER 7584                
+POS_UNKNOWNREFERERBROWSER 8536                
+POS_ORIGIN 8890                
+POS_SEREFERRALS 9035                
+POS_PAGEREFS 9201                
+POS_SEARCHWORDS 9719                
+POS_KEYWORDS 9880                
+POS_MISC 2337                
+POS_ERRORS 9948                
+POS_CLUSTER 3669                
+POS_SIDER_404 10118               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191201005227 192 44222 10290284331814
+FirstTime 20191103162534
+LastTime 20191130220155
+LastUpdate 20191201050939 192 0 191 0 0
+TotalVisits 438                 
+TotalUnique 221                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 256                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 995 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 37 66 1336349 26 37 94321
+1 9 15 551276 23 34 198414
+2 7 7 122582 28 36 188631
+3 9 46 1218394 15 25 130083
+4 27 43 759335 18 23 90249
+5 112 209 3429305 43 58 361523
+6 8 16 487120 10 21 100735
+7 55 93 1797593 24 31 64223
+8 32 110 1250262 21 29 264894
+9 13 21 524718 28 49 541603
+10 58 91 1542627 42 48 298758
+11 131 336 9351965 76 201 4431930
+12 261 587 13929355 103 134 608579
+13 113 338 2322451 110 148 436144
+14 215 1178 12452852 107 289 2253884
+15 252 743 13267320 200 291 753016
+16 194 721 14302924 198 273 1452180
+17 325 898 15249058 171 268 1891466
+18 376 553 8704726 123 191 433514
+19 597 1561 35254582 287 449 2396087
+20 966 3275 81823187 580 965 7413203
+21 601 2825 86178884 415 713 4616753
+22 543 2152 55464413 234 519 2682250
+23 388 1466 35575642 273 598 5843961
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 5329 17350 396896920
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+googlebot 644 18039725 20191129170449 24
+yandex 97 626716 20191130231207 28
+crawl 54 1774707 20191107144309 0
+bot[\s_+:,\.\;\/\\-] 39 228686 20191130152944 16
+mail\.ru 37 123757 20191130192536 22
+favicon 34 358630 20191129212308 0
+robot 31 775306 20191127224152 5
+facebook 22 2115093 20191129163502 0
+unknown 20 7461 20191128180604 20
+msnbot 10 3850 20191130153001 10
+core 2 12376 20191127095104 0
+no_user_agent 6 116965 20191127033207 0
+ia_archiver 4 1276 20191110162853 4
+python 8 101497 20191129003540 1
+wget 1 36131 20191118215955 0
+w3c_validator 3 32915 20191126191221 0
+nutch 1 10799 20191120205917 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 1777 20000742 0 0
+webp 604 79222500 0 0
+png 1510 10045067 0 0
+html 1 370 0 0
+jpg 6878 225352714 0 0
+js 1856 31566889 0 0
+xml 4 8180 0 0
+Unknown 4720 30700458 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 130 0 47769
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 5598
+winlong 8
+winxp 56
+unix 10
+winnt 322
+linuxubuntu 1
+linux 123
+winvista 47
+win7 10596
+macosx 333
+winunknown 1
+win2003 1
+Unknown 254
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 100
+msie6.0 5
+firefox57.0 8
+chrome52.0.2743.116 7
+firefox33.1 5
+firefox3.0.1 2
+chrome60.0.3112.50 5
+chrome72.0.3626.121 3
+safari4.0.5 3
+chrome71.0.3559.0 25
+firefox54.0 9
+curl 2
+chrome58.0.3029.110 27
+firefox70.0 40
+msie8.0 11
+chrome77.0.3865.120 512
+chrome64.0.3282.167 1
+firefox59.0 1
+msie7.0 1
+chrome50.0.2661.102 1
+firefox41.0 3
+chrome70.0.3538.80 52
+firefox65.0 1
+chrome71.0.3578.141 13
+chrome64.0.3180.113 23
+chrome73.0.3683.103 1
+netscape 23
+chrome65.0.3325.181 1
+chrome55.0.2883.87 2
+chrome76.0.3809.132 3
+chrome78.0.3904.62 1670
+chrome68.0.3440.106 3
+chrome63.0.3239.132 3
+firefox10.0.1 1
+chrome56.0.2924.90 1
+chrome78.0.3904.87 2981
+firefox68.0 1
+chrome78.0.3904.97 4823
+mozilla 126
+chrome69.0.3452.0 1
+safari5.0.4 1
+chrome78.0.3904.70 10
+netscape5.0 21
+chrome78.0.3904.106 10
+firefox60.0 4
+chrome46.0.2486.0 1
+chrome78.0.3904.96 247
+chrome64.0.3282.186 1
+firefox3.6.3 1
+chrome77.0.3865.75 8
+chrome53.5.0289.5916 1
+safari9.0.2 1
+firefox35.0 1
+safari7.0 44
+firefox71.0 1
+safari11.0 117
+chrome66.0.3359.139 1
+safari12.0 5
+chrome71.0.3578.98 1137
+chrome67.0.3381.1 1
+chrome78.0.3904.90 24
+opera9.80 17
+chrome61.0.3163.100 17
+chrome26.0.1410.65 1
+chrome54.0.2874.24 1
+chrome34.0.1847.116 5
+chrome51.0.2704.84 54
+chrome58.0.1145.75 1
+msie9.0 1
+chrome75.0.3770.142 6
+chrome64.0.3282.39 1
+Unknown 130
+chrome70.0.3538.67 1
+chrome68.0.3029.110 1
+firefox32.0 25
+chrome77.0.3865.90 49
+chrome70.0.3538.77 3
+firefox3.5.6 2
+vodafone 42
+safari10.0 2
+chrome73.0.3683.86 1
+firefox69.0 42
+chrome76.0.3809.100 20
+chrome41.0.2272.118 49
+chrome78.0.3904.108 4523
+firefox56.0 1
+chrome74.0.3694.0 234
+chrome61.0.3163.79 1
+chrome69.0.3463.1 1
+chrome74.0.3729.131 1
+chrome35.0.2117.157 2
+chrome45.0.2454.101 4
+firefox62.0.2 1
+chrome51.0.2704.106 1
+chrome42.0.0.0 24
+msie10.0 2
+chrome41.0.2272.81 1
+firefox 10
+firefox3.6.8 23
+chrome64.0.3282.140 1
+chrome75.0.3770.100 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20191125121729
+curl/7.29.0 20191123001711
+\ 20191125222856
+adreview/1.0 20191124205308
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20191127143344
+Opera/9.80_(Android;_Opera_Mini/44.1.2254/159.224;_U;_ru)_Presto/2.12.423_Version/12.16 20191119200019
+Mozilla/5.0_zgrab/0.x 20191126165132
+Mozilla/5.0_(compatible;_PR-CY.RU;___https://a.pr-cy.ru) 20191126191319
+Jetty/9.4.15.v20190215 20191130080617
+Chrome 20191117222614
+Mozilla/5.0_Firefox/35.0 20191130053139
+Mozilla 20191104175850
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20191117214714
+Validator.nu/LV 20191126191319
+Validator.nu/LV_http://validator.w3.org/services 20191127204110
+Google-AdWords-Express 20191117125232
+Mozilla/5.0,_Google-AdWords-Express 20191117124954
+Go-http-client/1.1 20191124124922
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+\ 20191125222856
+adreview/1.0 20191124205308
+Validator.nu/LV 20191126191319
+Validator.nu/LV_http://validator.w3.org/services 20191127204110
+Google-AdWords-Express 20191117125232
+Go-http-client/1.1 20191124124922
+Jetty/9.4.15.v20190215 20191130080617
+Chrome 20191117222614
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 693 744
+From1 1 1
+From2 13 19
+From3 33 33
+From4 4589 16553
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 11 17
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+https://91.234.34.226:443 10 10
+http://m.facebook.com 8 8
+https://a.pr-cy.ru/my-dog.club 6 6
+http://91.234.34.226:80 2 2
+http://admin.i.ua/catalog/edit/227986/ 1 1
+http://m.facebook.com 1 1
+http://webcache.googleusercontent.com/search 1 1
+http://catalog.i.ua/account/ 1 1
+http://91.234.34.226 1 1
+http://admin.i.ua/catalog/edit/227826/ 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+503 1 469
+302 1474 1809597
+419 9 9662
+206 55 1093256
+500 148 181299
+301 1 458
+404 1725 8875608
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 106
+/image/news/18mini.jpg 8 https://my-dog.club/gallery
+/3a72e92c9008b2605e783b9a906a8012 1 https://a.pr-cy.ru/my-dog.club
+/home/test/wp-includes/wlwmanifest.xml 1 -
+/home/sito/wp-includes/wlwmanifest.xml 1 -
+/contacts 1 https://my-dog.club/home
+/image/breeds/3/Animals___Dogs_Happy_Australian_terrier_on_the_grass_048087_12.jpg 2 https://my-dog.club/breeds/avstraliyskiy_terer
+/image/breeds/akbash_shchenokmax.png 1 https://my-dog.club/admin/breeds/show/5
+/image/blog/1555511917mini.jpg 3 https://my-dog.club/home
+/image/news/19max.jpg 1 https://my-dog.club/admin/news/show/8
+/image/gallery/27mini.jpg 13 https://my-dog.club/gallery
+/home/2017/wp-includes/wlwmanifest.xml 1 -
+/image/gallery/13mini.jpg 13 https://my-dog.club/gallery
+/image/breeds/1555512002max.jpg 1 https://my-dog.club/admin/breeds/show/2
+/home/website/wp-includes/wlwmanifest.xml 1 -
+/image/news/placeholdermax.jpg 101 http://my-dog.club/home
+/xmlrpc.php 1 -
+/image/developments/1555304680max.jpg 6 https://my-dog.club/admin/developments/show/18
+/css/bootstrap.min.css.map 515 -
+/image/gallery/15mini.jpg 13 https://my-dog.club/gallery
+/%D1%84%D0%B2%D1%8C%D1%88%D1%82 1 -
+/home/site/wp-includes/wlwmanifest.xml 2 -
+/image/blog/05mini.jpg 3 https://my-dog.club/home
+/diseases 7 -
+//www.liveinternet.ru/click 2 https://my-dog.club/home
+/image/developments/10max.jpg 1 https://my-dog.club/admin/developments/show/16
+/image/breeds/1555512050max.jpg 1 https://my-dog.club/admin/breeds/show/5
+/image/breeds/1555511975max.jpg 1 https://my-dog.club/admin/breeds/show/1
+/image/blog/01mini.jpg 3 https://my-dog.club/home
+/image/breeds/9/2.jpg 2 https://my-dog.club/admin/breeds/show/9
+/home/blog/wp-includes/wlwmanifest.xml 2 -
+/image/blog/placeholdermini.jpg 3 https://my-dog.club/blog
+/image/gallery/23mini.jpg 13 https://my-dog.club/gallery
+/image/gallery/1555512142max.jpg 7 https://my-dog.club/admin/gallery
+/js/bootstrap.min.js.map 511 -
+/image/news/22mini.jpg 8 https://my-dog.club/gallery
+/keeping 7 -
+/image/gallery/14mini.jpg 13 https://my-dog.club/gallery
+/image/developments/09max.jpg 1 https://my-dog.club/admin/developments/show/15
+/image/blog/1555262097max.jpg 1 https://my-dog.club/admin/blog/show/33
+/home/web/wp-includes/wlwmanifest.xml 1 -
+/image/breeds/9/4.jpg 2 https://my-dog.club/admin/breeds/show/9
+/home/2016/wp-includes/wlwmanifest.xml 1 -
+/image/blog/1555511917max.jpg 2 https://my-dog.club/admin/blog/show/40
+/image/news/21mini.jpg 8 https://my-dog.club/gallery
+/wp-login.php 2 -
+/dashboard/contacts 2 https://my-dog.club/dashboard/contacts
+/image/breeds/6/Chrysanthemum.jpg 1 https://my-dog.club/admin/breeds/show/6
+/image/blog/02mini.jpg 3 https://my-dog.club/home
+/image/news/18max.jpg 5 https://my-dog.club/admin/news/show/7
+/image/breeds/9/6.jpg 2 https://my-dog.club/admin/breeds/show/9
+/image/blog/1574616270path.jpg 3 https://my-dog.club/blog/kormlenie_sobaki
+/home/xmlrpc.php 2 -
+/image/blog/02max.jpg 1 https://my-dog.club/admin/blog/show/2
+/frYhrs0z8bRfR9RzcZSVg8LS3 1 https://my-dog.club/frYhrs0z8bRfR9RzcZSVg8LS3
+/admin/user 1 -
+/image/news/19mini.jpg 8 https://my-dog.club/gallery
+/image/gallery/1555560180max.jpg 6 https://my-dog.club/admin/gallery
+/image/breeds/6/Desert.jpg 1 https://my-dog.club/admin/breeds/show/6
+/.well-known/assetlinks.json 1 -
+/image/breeds/1555605568max.jpg 1 https://my-dog.club/admin/breeds/show/6
+/admn 1 -
+/te3/signup.php 3 -
+/3cc26b8cbe8efa28ddb6a017805f9c07 1 https://a.pr-cy.ru/my-dog.club
+/image/news/22min.jpg 1 https://my-dog.club/news
+/ExNgGxo3JnZhbWZGSV89ceghR 1 https://my-dog.club/ExNgGxo3JnZhbWZGSV89ceghR
+/image/developments/08max.jpg 1 https://my-dog.club/admin/developments/show/14
+/index.html 16 https://www.my-dog.club/gallery/test1_2
+/BingSiteAuth.xml 1 -
+/home/wp-includes/wlwmanifest.xml 2 -
+/image/breeds/placeholdermax.jpg 10 https://my-dog.club/admin/breeds/show/7
+/.env 1 -
+/image/breeds/6/Hydrangeas.jpg 1 https://my-dog.club/admin/breeds/show/6
+/image/breeds/9/3.jpg 2 https://my-dog.club/admin/breeds/show/9
+/home/2015/wp-includes/wlwmanifest.xml 1 -
+/image/news/22max.jpg 5 https://my-dog.club/admin/news/show/11
+/image/gallery/13max.jpg 13 https://my-dog.club/admin/gallery
+/image/developments/07max.jpg 1 https://my-dog.club/admin/developments/show/13
+/image/blog/01max.jpg 2 https://my-dog.club/admin/blog/show/1
+/wp/wp-login.php 1 http://my-dog.club/wp/wp-login.php
+/home/wp/wp-includes/wlwmanifest.xml 2 -
+/ads.txt 4 -
+/home/media/wp-includes/wlwmanifest.xml 1 -
+/image/baner.webp 3 -
+/home/shop/wp-includes/wlwmanifest.xml 1 -
+/image/blog/05max.jpg 3 http://www.my-dog.club/home
+/860b27a2f96224c595a7f325be2d63af 1 https://a.pr-cy.ru/my-dog.club
+/image/gallery/15max.jpg 8 https://my-dog.club/admin/gallery
+/image/gallery/14max.jpg 12 https://my-dog.club/admin/gallery
+/administrator/index.php 1 -
+/.git//index 3 -
+/google4291209ab3d8c513.html 1 -
+/home/cms/wp-includes/wlwmanifest.xml 2 -
+/home/news/wp-includes/wlwmanifest.xml 1 -
+/image/breeds/9/5.jpg 2 https://my-dog.club/admin/breeds/show/9
+/admin 3 -
+/admin/breeds/show/3 1 https://my-dog.club/admin/breeds
+/home/2018/wp-includes/wlwmanifest.xml 1 -
+/image/news/placeholdermini.jpg 233 http://my-dog.club/home
+/image/blog/placeholdermax.jpg 34 http://www.my-dog.club/blog
+/P9Q2N0sdKxrzYJE7agr1Yqw88 1 https://my-dog.club/P9Q2N0sdKxrzYJE7agr1Yqw88
+/home/wp1/wp-includes/wlwmanifest.xml 1 -
+/home/wp2/wp-includes/wlwmanifest.xml 1 -
+/home/wordpress/wp-includes/wlwmanifest.xml 2 -
+/image/breeds/1555512025max.jpg 1 https://my-dog.club/admin/breeds/show/3
+/image/news/20mini.jpg 8 https://my-dog.club/gallery
+/image/blog/04mini.jpg 3 https://my-dog.club/home
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 256
+178.151.205.147 3818 13013 309200669 20191130132734
+77.121.88.4 445 1171 31092610 20191130194325
+66.102.9.140 94 543 7279797 20191112070917
+66.102.9.138 92 587 4792616 20191112071034
+66.102.9.142 81 472 6433491 20191112071003
+46.211.78.178 53 61 733868 20191119124301
+104.192.74.11 46 46 327466 20191104175850
+46.211.8.193 28 28 36781 20191104141017
+45.155.206.169 21 23 179405 20191108041540
+104.223.79.44 19 30 480628 20191130105941
+66.249.93.88 18 53 1300658 20191128203522
+40.77.189.73 0 1 7439 
+185.220.70.152 1 1 10795 20191123055023
+91.189.84.70 1 1 11337 20191126191639
+40.77.191.61 0 1 3225 
+40.77.189.65 0 1 7439 
+213.182.202.188 1 1 11178 20191107023825
+46.211.35.66 3 3 3920 20191106120927
+178.218.208.198 1 1 8209 20191127204109
+69.164.111.198 1 1 42525 20191107061133
+178.218.216.65 1 1 8211 20191127204109
+193.116.97.16 1 1 29100 20191128122514
+40.77.189.205 0 1 141203 
+213.108.73.199 2 2 58194 20191127235520
+46.211.25.37 11 11 65252 20191123073952
+46.211.96.239 12 40 1423543 20191126171937
+66.102.8.147 0 11 77351 
+76.170.85.244 1 1 10790 20191118064047
+193.176.86.182 7 7 56813 20191122074418
+40.77.190.159 0 1 141203 
+77.93.54.40 6 12 239680 20191118130459
+137.226.113.28 4 4 43345 20191121214800
+204.44.86.194 1 1 10946 20191115051716
+141.226.36.70 2 2 73026 20191117222614
+64.58.225.116 1 1 11570 20191112190135
+46.211.23.41 6 7 128687 20191120115152
+160.153.154.137 2 2 21796 20191116205344
+104.238.95.46 1 1 36285 20191122104423
+146.120.204.218 1 1 38159 20191126191319
+185.131.55.4 1 1 10936 20191114185951
+128.30.52.134 1 1 11330 20191126191640
+91.189.84.80 1 1 10796 20191119210626
+50.116.16.218 2 8 215223 20191117222658
+93.171.202.244 6 6 65856 20191126191319
+40.77.190.92 0 1 17761 
+46.101.9.216 5 5 37750 20191106003936
+40.77.190.212 0 3 152318 
+86.47.80.148 11 11 367315 20191125121856
+185.204.0.172 1 1 8213 20191129120803
+128.30.52.96 1 1 10790 20191119211435
+161.69.99.11 1 1 11186 20191107023611
+66.102.8.152 1 13 106453 20191129171343
+146.120.204.225 1 1 2617 20191121192334
+66.249.88.92 3 3 32688 20191117125232
+192.210.201.180 15 22 297888 20191116225321
+54.184.210.43 1 1 11187 20191109124509
+195.201.171.107 1 1 10794 20191119193452
+35.230.58.15 2 8 215226 20191118141830
+150.249.214.254 5 5 54382 20191121155612
+198.108.66.96 1 1 10790 20191119162641
+40.77.189.35 1 1 150900 20191122184700
+66.102.8.148 4 12 500671 20191129171344
+66.102.9.30 4 5 37612 20191119220812
+146.120.204.211 1 1 36125 20191121192333
+66.102.9.26 3 6 194672 20191119220811
+52.114.75.71 1 1 42859 20191104220254
+185.234.216.20 1 1 10941 20191116101418
+18.233.245.96 1 1 8301 20191130080617
+172.16.3.2 2 27 852511 20191104111753
+38.99.62.94 9 9 99097 20191125121729
+51.158.126.165 1 1 8216 20191129170547
+66.102.8.150 3 13 390467 20191118111527
+45.79.30.86 4 16 430522 20191120040339
+66.249.88.94 1 1 10895 20191117124954
+39.111.208.132 2 2 21676 20191119171253
+146.120.204.220 1 1 2617 20191126191319
+198.108.66.32 2 2 22351 20191126165132
+64.233.172.247 4 6 202618 20191121202425
+184.94.240.92 1 1 36131 20191118155737
+168.81.200.117 13 13 84478 20191117220815
+66.102.8.151 0 2 9339 
+46.133.41.44 2 24 895304 20191109114343
+40.77.190.94 1 2 158339 20191124171110
+199.127.56.236 2 10 221553 20191113034556
+40.77.188.71 1 1 150900 20191119015134
+150.249.214.251 4 4 44311 20191125113357
+176.36.196.198 17 43 1701188 20191124205849
+34.220.37.197 1 1 10801 20191120202020
+34.219.88.122 1 1 11284 20191112103534
+150.249.214.249 6 6 66440 20191119171224
+139.59.61.124 1 1 36127 20191123110614
+178.218.209.211 1 1 11331 20191126191639
+77.111.244.17 6 16 245175 20191116165300
+27.115.124.2 1 1 10785 20191119102856
+66.249.93.122 3 22 544245 20191112212549
+137.226.113.27 2 2 21732 20191119011515
+40.77.188.78 1 2 153651 20191128163236
+163.172.71.49 1 1 36777 20191117212851
+185.183.96.122 8 8 87396 20191126132207
+74.125.210.44 1 8 36512 20191104221644
+54.186.82.41 1 1 10945 20191116131008
+46.211.38.120 8 8 10681 20191104120906
+40.77.190.106 0 2 23420 
+125.164.87.189 1 1 11169 20191125120934
+40.77.188.206 0 1 17588 
+46.211.16.252 1 1 1368 20191106082024
+54.201.161.163 1 1 11178 20191125231122
+128.30.52.64 3 3 29808 20191127204110
+146.158.58.197 2 10 342672 20191124224458
+66.249.88.90 2 2 21784 20191117125027
+168.81.201.77 4 4 29254 20191117220815
+198.108.66.16 3 3 32538 20191121174303
+95.216.15.49 1 1 11184 20191106192146
+193.109.85.14 7 13 695639 20191123124835
+40.77.189.173 0 1 5321 
+144.217.146.17 1 5 53637 20191126171109
+146.120.204.224 1 1 36179 20191121192334
+40.77.190.188 0 1 141203 
+128.30.52.72 2 2 21572 20191119211410
+198.108.66.161 3 3 32910 20191126133304
+40.77.190.189 0 1 51318 
+198.108.66.224 2 2 21591 20191122171926
+184.174.66.146 1 1 10897 20191117215342
+173.211.40.112 1 1 10899 20191117215528
+193.176.86.166 4 4 24536 20191125105100
+124.206.180.178 1 1 29756 20191130053139
+88.198.9.157 2 2 22120 20191126191219
+45.76.227.152 1 1 10800 20191120172759
+64.233.172.243 2 4 44830 20191121202424
+65.154.226.100 1 1 11192 20191108205741
+46.211.112.227 1 1 10939 20191113115200
+150.249.214.252 6 6 65207 20191121155758
+95.163.105.100 4 4 146859 20191128131018
+74.125.210.42 0 9 67935 
+66.249.93.86 15 69 1955788 20191128203519
+40.77.189.169 0 1 141203 
+40.77.189.144 0 1 17761 
+40.77.189.239 0 1 3225 
+52.12.24.188 1 1 10796 20191124124922
+165.22.204.242 1 1 11190 20191107054442
+82.102.27.195 1 1 42531 20191109235237
+167.172.161.125 1 1 10946 20191113072430
+40.77.190.36 0 1 2827 
+123.24.7.78 1 1 11171 20191125200007
+188.165.218.34 10 10 419875 20191114095331
+191.101.213.89 1 1 10798 20191121040602
+89.234.68.78 6 6 192251 20191112122006
+77.222.96.144 1 1 8212 20191128071459
+47.252.22.250 2 8 215252 20191119034937
+65.29.170.16 1 1 10945 20191116135120
+54.213.229.73 1 1 10893 20191117101010
+45.79.79.29 1 1 10941 20191113235303
+46.172.87.198 2 13 347501 20191130220155
+40.77.188.3 1 1 150900 20191130152951
+104.132.127.88 2 10 342678 20191125094912
+13.56.149.80 1 1 10788 20191118165904
+150.249.214.250 8 8 88872 20191125113447
+34.222.119.58 1 1 11184 20191111122340
+52.13.178.206 1 1 10934 20191114020830
+81.133.241.97 3 3 108565 20191121172029
+85.10.204.252 9 9 326486 20191127001759
+40.77.188.12 0 1 5794 
+208.80.194.41 1 1 36127 20191119072832
+89.234.68.91 4 4 102514 20191117122059
+82.202.161.133 1 1 11183 20191111172051
+31.13.127.7 1 1 150900 20191124205308
+198.58.107.211 6 26 652114 20191122104308
+95.216.20.96 2 10 221560 20191114054640
+46.211.120.199 7 7 9405 20191104151403
+82.145.210.112 2 8 215264 20191119200018
+40.77.190.39 0 1 51318 
+52.11.247.15 1 1 10936 20191115104427
+193.30.121.226 1 1 42531 20191107074122
+146.120.204.223 1 1 36129 20191121192334
+40.77.191.27 0 1 123798 
+146.120.204.46 1 1 2617 20191119210607
+77.111.246.223 12 21 407198 20191119200053
+40.77.190.12 0 1 7439 
+213.159.213.137 3 3 33421 20191125151838
+178.218.210.225 1 1 10795 20191119210626
+46.211.36.106 14 14 64166 20191119071507
+46.4.120.42 2 8 215278 20191123051227
+40.77.189.37 0 3 74265 
+23.108.47.69 1 1 10892 20191116225253
+40.77.176.176 2 10 342675 20191125211506
+82.145.211.96 3 9 226034 20191119193625
+113.35.251.98 2 2 21978 20191123001711
+176.37.75.236 1 1 37840 20191126134545
+54.39.100.61 4 4 151903 20191121201128
+51.158.73.199 1 1 11188 20191107201518
+185.220.70.130 2 2 21578 20191119210054
+66.249.93.98 3 34 1662120 20191112212550
+65.154.226.220 3 13 370141 20191126140550
+69.164.206.42 2 10 342672 20191125222855
+65.155.30.101 2 10 342679 20191126065503
+46.211.16.75 4 4 22246 20191129141555
+209.242.220.232 1 1 8307 20191130105847
+54.36.115.93 1 1 11081 20191105145606
+40.77.190.34 0 1 2751 
+185.200.116.219 1 1 42529 20191110234637
+45.33.20.249 4 35 1117503 20191113143351
+146.120.204.214 1 1 38165 20191126191318
+150.249.214.253 7 7 76844 20191125113132
+54.95.4.55 2 6 64127 20191114072846
+93.171.203.15 6 26 773391 20191126191319
+198.108.66.64 3 3 32530 20191121142259
+2.58.194.141 11 28 1198616 20191127210736
+185.230.127.241 4 4 20945 20191130063700
+31.131.28.242 1 1 37120 20191115213907
+181.214.1.210 1 1 10943 20191114072755
+40.77.190.158 0 1 123798 
+35.195.247.19 1 1 42531 20191106185553
+66.249.93.84 14 38 1439732 20191128203522
+212.92.122.56 2 2 12784 20191127080123
+198.108.66.144 1 1 10781 20191119130621
+146.120.204.219 1 1 38231 20191126191319
+46.211.107.69 4 4 39769 20191125071335
+137.226.113.26 2 2 19427 20191127143344
+66.249.93.126 3 17 508892 20191112212546
+208.80.194.42 1 1 36125 20191120164035
+74.125.210.46 1 7 204785 20191104221645
+188.32.254.150 1 1 11177 20191125160911
+146.120.204.40 1 1 36133 20191119210605
+40.77.188.177 0 1 51318 
+34.213.10.134 1 1 10796 20191119163734
+64.233.172.245 0 2 11115 
+40.77.190.55 0 1 7439 
+146.120.204.44 1 1 36141 20191119210607
+40.77.188.144 0 1 51318 
+198.108.67.16 3 3 32535 20191122143609
+185.234.216.15 1 1 10938 20191113180759
+37.53.75.158 17 40 1143900 20191127090000
+18.234.230.246 2 2 1870 20191107182044
+206.189.23.80 1 1 8214 20191129151230
+40.77.188.226 0 2 7001 
+52.88.82.220 1 1 11185 20191109124452
+46.211.83.61 4 14 272695 20191113053619
+192.99.100.93 2 25 726833 20191105031941
+49.227.105.78 2 10 342673 20191125041553
+52.43.86.146 1 1 10798 20191122110825
+128.30.52.73 4 4 43716 20191126191229
+46.211.92.0 1 1 1324 20191105115401
+198.108.66.208 1 1 11182 20191107181357
+46.211.59.67 3 4 113348 20191119151113
+146.120.204.45 1 1 36193 20191119210607
+40.77.190.115 0 1 5794 
+40.77.188.42 0 1 5321 
+40.77.188.134 0 1 5321 
+46.211.64.203 5 9 494703 20191127175452
+66.102.8.149 2 12 640226 20191104220123
+88.212.196.67 3 3 102337 20191127014520
+66.102.9.28 1 3 37550 20191117214442
+40.77.190.176 0 1 2079 
+46.211.110.217 6 13 223343 20191121071134
+101.4.60.124 1 5 27822 20191113132908
+154.51.131.142 1 1 11176 20191126155134
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20191103 63 280 6259129 2
+20191104 514 1869 28957753 23
+20191105 211 1411 41805761 12
+20191106 46 244 489066 14
+20191107 21 44 1338726 19
+20191108 28 30 414417 8
+20191109 6 28 971387 5
+20191110 1 1 42529 1
+20191111 210 2005 65970387 8
+20191112 584 2560 70190216 21
+20191113 51 120 2249082 20
+20191114 16 36 721362 13
+20191115 6 6 118003 6
+20191116 580 1434 22789237 13
+20191117 496 998 12299837 26
+20191118 283 491 9278463 22
+20191119 678 1264 26629424 48
+20191120 84 100 1293877 15
+20191121 122 167 2539166 35
+20191122 97 124 1855430 13
+20191123 91 116 1993858 10
+20191124 315 2153 57569708 11
+20191125 108 189 4397301 23
+20191126 286 915 21139742 25
+20191127 134 196 4144272 15
+20191128 99 189 3882625 9
+20191129 134 253 4790927 8
+20191130 65 127 2765235 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 28
+5mn-15mn 19
+30s-2mn 26
+2mn-5mn 15
+15mn-30mn 11
+0s-30s 329
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 159
+/home 1031 12838625 368 266
+/image/baner.webp 595 78166200 27 63
+/comments 553 610694 4 21
+/breeds 441 1799495 10 21
+/dashboard/contacts 276 880204 0 4
+/breeds/avstraliyskiy_terer 153 1615116 1 0
+/blog 134 950391 1 8
+/admin/user 120 353942 0 1
+/dashboard 119 388782 1 1
+/admin/user/edit/2 97 441969 0 0
+/developments/user/4 1 6501 0 0
+/admin/comment 72 230932 0 0
+/admin/breeds/show/4 33 224383 0 0
+/public/index.php/home 1 36285 1 1
+/admin/breeds/show/16 4 19994 0 0
+/breeds/doberman 22 214173 0 0
+/breeds/kanadskaya_eskimosskaya_sobaka 2 20181 1 0
+/admin/breeds/show/2 4 18605 0 0
+/admin/blog 72 206034 0 1
+/admin/news 43 123411 0 0
+/blog/mnogorazovie_pelenki 17 141159 0 1
+/gallery/super_morda2_33 2 11892 0 0
+/news/Novaya_akciya 13 140406 0 0
+/admin/developments/show/13 1 4442 0 0
+/ajax 31 33632 0 0
+/admin/blog/show/7 2 7082 0 0
+/admin/user/edit/3 4 18243 0 0
+/admin/breeds/show/9 15 114370 0 0
+/breeds/yorkshirskiy_terer 11 110591 0 0
+/gallery/home 1 5428 0 0
+/diseases 22 166128 2 2
+/admin/news/show/42 1 3392 0 0
+/admin/gallery 60 197421 1 0
+/register 2 12916 2 0
+/admin/breeds/show/6 17 98226 0 0
+/profile/2 33 57549 0 1
+/gallery/Progulka_naa_dnepre 5 35176 0 1
+/breeds/akbash 25 220981 1 0
+/gallery/Priehali_domoi 2 13810 0 0
+/gallery/super_morda2_35 1 6655 0 0
+/admin/user/avatarUpdate 7 2402 0 0
+/news/Daigest_korma 4 27949 0 0
+/admin/news/show/7 5 22408 0 0
+/news/sobaka_zarabotala 3 22913 0 0
+/login 2 12523 0 0
+/dashboard/privateMessagesUser/4 2 11570 0 0
+/admin/blog/show/33 2 7125 0 0
+/admin/breeds/show/8 25 150333 0 0
+/blog/tyulpany_i_rozy 26 170791 0 1
+/developments 43 296019 2 3
+/admin/breeds/show/1 7 28816 0 0
+/blog/aaaaaaaaaaaaaaaaaaaaa 4 26394 0 0
+/clear-cache 1 1015 0 0
+/admin/breeds/show/15 11 70113 0 0
+/admin/news/show/3 2 7150 0 0
+/admin/developments/show/18 1 4513 0 0
+/admin/blog/show/11 25 263290 0 0
+/gallery/test1_1 13 83721 0 0
+/admin/developments 31 86951 0 0
+/admin/blog/show/2 2 9890 0 0
+/admin/blog/show/8 2 7088 0 0
+/admin/news/show/9 1 4068 0 0
+/BingSiteAuth.xml 1 329 0 0
+/gallery/user/4 1 6316 0 0
+/news 52 377387 1 3
+/gallery/user/2 1 6329 0 0
+/poll/1 15 21406 2 4
+/profile/4 5 6851 0 1
+/blog/kormlenie_sobaki 43 744035 0 0
+/news/Sobaka_spasla_detei 1 7374 0 0
+/dashboard/changePassword 26 67916 0 0
+/breeds/kane_korso 4 44089 0 0
+/blog/sobaka_v_zhizni_cheloveka 12 126116 0 0
+/breeds/super_morda 1 6933 0 0
+/admin/developments/show/16 2 8795 0 0
+/admin/breeds/delImage 9 9021 0 0
+/profile/16 3 4189 0 0
+/dashboard/privateMessagesUser/2 8 24728 0 0
+/admin/blog/delImage 12 12008 0 0
+/admin/diseases 12 28189 0 0
+/admin/keeping 12 28186 0 0
+/admin/breeds/show/3 59 460922 0 0
+/admin/blog/show/5 11 60890 0 0
+/blog/user/1 6 38522 0 0
+/image/MainPhoto.webp 9 1056300 2 5
+/admin/user/update 14 4915 0 0
+/admin/breeds/show/12 10 40114 0 0
+/admin/developments/show/5 2 7076 0 0
+/sitemap.xml 3 7851 3 3
+/breeds/bokser 2 20344 0 0
+/forgot 12 76739 2 4
+/contacts 16 100762 0 1
+/admin/news/show/10 1 4722 0 0
+/admin/blog/show/40 1 3586 0 0
+/admin/breeds 71 205957 1 1
+/breeds/grenlandskaya_sobaka 1 9545 0 0
+/blog/kosti_sobakam 10 129474 0 3
+/admin/breeds/show/5 3 14394 0 0
+/developments/pervoe_sobitie 4 29897 0 0
+/breeds/belgiyskiy_griffon_bryusselskiy_griffon_pti_brabanson 32 312873 0 0
+/admin/blog/show/6 2 7080 0 0
+/admin/breeds/show/7 8 30034 0 1
+/admin/developments/show/15 1 4458 0 0
+/admin/news/show/11 1 4450 0 0
+/gallery/user/home 1 6266 0 1
+/admin/gallery/update 1 374 0 1
+/keeping 11 67706 1 1
+/gallery/sfetgert4rt 5 33080 0 0
+/dashboard/privateMessages 55 149445 0 2
+/admin/breeds/show/10 2 7540 0 0
+/blog/kak_otuchit_sobaku_ili_shchenka_podbirat_na_ulitse 25 350237 0 0
+/developments/Vtoroe_sobitie 4 29957 0 0
+/admin/news/show/8 1 4738 0 0
+/gallery/Russkaya_borza 2 55882 0 0
+/developments/hestoe_sobitie 13 100325 0 1
+/admin/blog/show/3 1 5020 0 0
+/gallery/puzyrek_4 5 35530 0 0
+/blog/bokser 6 37661 0 0
+/admin/news/show/2 2 7024 0 0
+/breeds/evrazier 9 98141 0 0
+/gallery/gav_31 4 26238 0 0
+/admin/blog/show/9 65 735685 0 0
+/gallery/test1_2 13 85589 1 0
+/developments/tretie_sobitie 5 80395 0 0
+/profile/3 2 3075 0 0
+/dashboard/privateMessagesUser/1 16 54754 0 1
+/admin/news/show/4 2 7026 0 0
+/admin/breeds/show/11 15 99363 0 0
+/admin/blog/show/12 11 79657 0 0
+/gallery 88 580770 2 3
+/addComment 16 25654 0 2
+/breeds/zolotistyy_retriver 15 154850 0 0
+/dashboard/contactsEdit 2 884 0 0
+/developments/Hetvertoe_sobitie 4 29972 0 0
+/gallery/user/3 1 6792 0 0
+/dashboard/privateMessagesUser/16 7 21493 0 0
+/admin/blog/show/41 2 6844 0 1
+/admin/blog/destroy/10 2 571 0 0
+/admin/developments/show/14 1 4463 0 0
+/admin/blog/show/1 7 28582 0 0
+/blog/turizm_s_sobakoy_kak_puteshestvovat_s_pitomtsem 5 39304 0 0
+/blog/mnogorazovye_pelenki_dlya_sobak_otzyvy_i_obzor 7 58326 0 0
+/profile/1 48 72386 0 1
+/admin/blog/show/10 14 54352 0 0
+/gallery/user/1 1 6532 0 0
+/gallery/user/16 1 6486 0 0
+/googlefc734c17124864ef.html 1 370 1 1
+/gallery/Volki 5 32968 0 0
+/breeds/irlandskiy_volkodav 20 212475 0 0
+/admin/breeds/show/14 17 120982 0 0
+/gallery/%20 4 26244 0 0
+/admin/blog/show/4 1 5337 0 0
+/dashboard/privateMessagesUser/5 4 12334 0 0
+/news/Vistavka_sobak 7 98996 0 0
+/blog/super_morda 1 5639 0 0
+/public/home 1 10903 0 1
+/gallery/S_papoi 1 6871 0 0
+/breeds/veymaraner 9 96132 0 0
+/admin/breeds/show/13 5 19728 0 0
+END_SIDER

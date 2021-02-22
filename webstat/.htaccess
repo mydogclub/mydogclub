@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/my-dog.club/webstat"
+AuthUserFile /var/www/dmitro431/data/etc/37120518.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
